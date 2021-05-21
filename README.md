@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tatoberres
+- 🌱 I’m currently learning web development
+- 📫 Reach me @ bertha@estudiomaco.com
