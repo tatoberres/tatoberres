@@ -1,4 +1,6 @@
 # <img src="https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width="60">,  I’m tatoberres
+[![Twitter: tatoberres](https://img.shields.io/twitter/url?label=Follow%3A%20tatoberres&logoColor=darkgoldenrod&style=social&url=https%3A%2F%2Ftwitter.com%2Ftatoberres)](https://twitter.com/tatoberres)
+[![Linkedin: berthatorres](https://img.shields.io/badge/-berthatorres-goldenrod?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berthatorres/)](https://www.linkedin.com/in/berthatorres/)
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 ## <img src="https://media.giphy.com/media/Ib6WRmuEJhqecleOR3/giphy.gif" width="50">I'm currently:
