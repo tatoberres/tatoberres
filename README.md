@@ -7,7 +7,7 @@
 - 🌱 Loving learning web development.
 - 💻 Studying at <a href="https://oclock.io/">O'Clock</a> code school.
 - 🏔 Living in the mountains.
-- 
+
 <br>
 
 ## <img src="https://media.giphy.com/media/kjoyKN8afEairJGnlK/giphy.gif" width="50">Some stats:
