@@ -7,12 +7,14 @@
 - 🌱 Loving learning web development.
 - 💻 Studying at <a href="https://oclock.io/">O'Clock</a> code school.
 - 🏔 Living in the mountains.
+- 
 <br>
 
 ## <img src="https://media.giphy.com/media/kjoyKN8afEairJGnlK/giphy.gif" width="50">Some stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatoberres&langs_count=8&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatoberres&langs_count=6&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
+
 [![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tatoberres&show_icons=true&count_private=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <img src="https://media.giphy.com/media/mln15LJPb4BP1PGJmj/giphy.gif" width="50">Reach me @:
