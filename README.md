@@ -6,7 +6,7 @@
 ## <img src="https://media.giphy.com/media/Ib6WRmuEJhqecleOR3/giphy.gif" width="50">I'm currently:
 - 🌱 Loving learning web development.
 - 💻 Finishing a great intership at Altair Engineering France.
-- Achieving a WebDev intensive cursus and a QA certification (https://directory.opquast.com/en/certificat/DON9CE/)
+- Achieving a WebDev intensive cursus and a [QA and Accesibilty certification](https://directory.opquast.com/en/certificat/DON9CE/)
 - 🏔 Living in the mountains.
 
 <br>
