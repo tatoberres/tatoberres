@@ -13,10 +13,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatoberres&langs_count=6&layout=compact&theme=gruvbox_light)
 
-<br>
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tatoberres&show_icons=true&count_private=true&theme=gruvbox_light)
-
 ### <img src="https://media.giphy.com/media/mln15LJPb4BP1PGJmj/giphy.gif" width="50">Reach me @:
 
 📫  <a mailto="bertha@estudiomaco.com">bertha@tatoberres.com</a>
